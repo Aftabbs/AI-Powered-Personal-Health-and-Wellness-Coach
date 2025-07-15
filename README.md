@@ -7,7 +7,7 @@
 A conversational AI health and wellness coach powered by Google's Gemini AI with real-time internet search capabilities using Serper API. Dr. Wellness provides personalized guidance, tracks progress, and accesses current health research to support your wellness journey.
 
 ## Features
-
+ 
 ### Core Functionality
 - **Personalized Wellness Coaching**: Tailored advice based on user profiles and goals
 - **Real-time Health Research**: Access to current studies and health information via Serper API

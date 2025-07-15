@@ -1,5 +1,5 @@
 # Dr. Wellness - Personal Health & Wellness Coach
-
+ 
 <img width="307" height="94" alt="image" src="https://github.com/user-attachments/assets/b7cfedb9-9e39-42e5-829a-61ab2e74aaa5" />
 
 
